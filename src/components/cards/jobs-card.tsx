@@ -3,24 +3,19 @@ import classNames from "classnames";
 
 const jobsData = [
   {
-    role: "Web Developer",
-    company: "Terraform Labs",
-    date: "2022 - Present",
+    role: "Student information technology",
+    company: "The technical university of Kenya",
+    date: "2023 - Present",
   },
   {
     role: "Software Engineer",
-    company: "Verb Inc.",
-    date: "2019 - 2022",
+    company: "ONE Technologies",
+    date: "2024 - 2025",
   },
   {
-    role: "Jr. Front-End Engineer",
-    company: "PNI Digital Media",
-    date: "2019 - 2019",
-  },
-  {
-    role: "Software Engineer",
-    company: "Factom Inc.",
-    date: "2018 - 2019",
+    role: "Software Engineer Intern",
+    company: "Loomar.",
+    date: "2023 - 2024",
   },
 ];
 
@@ -75,7 +70,7 @@ const JobsCard = () => {
       <div className="static h-full flex flex-col gap-6 p-8 justify-start">
         <div className="flex flex-col items-start gap-1">
           <h4 className="text-xs font-medium opacity-60 uppercase">
-            6 Years of
+            2 Years of
           </h4>
           <h1 className="text-2xl font-medium dark:text-white text-black uppercase opacity-90 text-center">
             Experience

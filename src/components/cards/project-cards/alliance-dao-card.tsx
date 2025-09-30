@@ -10,7 +10,7 @@ const AllianceDao = () => {
         <div className="relative flex justify-between w-full h-full items-stretch flex-col">
           <div className="absolute h-full w-full aspect-[578/451] shadow-2xl rounded-lg">
             <Image
-              src={"/projects/Alliance-dao.png"}
+              src={"/projects/quickzingo.png"}
               alt={"Station landing page example"}
               fill
               style={{
@@ -26,7 +26,7 @@ const AllianceDao = () => {
               <span>Project at</span>
               <span className="flex gap-1">
                 <Image
-                  src="/companies/01_Terra_color.png"
+                  src="/companies/quickzingo.png"
                   alt="TFL logo"
                   height={12}
                   width={16}

@@ -6,23 +6,23 @@ import { silka } from "@/fonts";
 import { ThemeProvider } from "next-themes";
 
 export const metadata: Metadata = {
-  title: "Joshua Brigati - Portfolio",
-  description: "A portfolio of Joshua Brigati, a Front-end Software Engineer based in Austin, Texas.",
+  title: "Dennis Muuo - Portfolio",
+  description: "A portfolio of Dennis Muuo, a Front-end Software Engineer based in Nairobi, Kenya.",
   authors: [
-    { name: "Joshua Brigati", url: "www.joshuabrigati.com" },
+    { name: "Dennis Muuo", url: "www.dennismuuo.me" },
   ],
   openGraph: {
-    title: "Joshua Brigati - Portfolio",
-    description: "A portfolio of Joshua Brigati, a Front-end Software Engineer based in Austin, Texas.",
-    url: "https://www.joshuabrigati.com",
-    siteName: "Joshua Brigati - Portfolio",
+    title: "Dennis Muuo - Portfolio",
+    description: "A portfolio of Dennis Muuo, a Front-end Software Engineer based in Nairobi, Kenya.",
+    url: "https://www.dennismuuo.me",
+    siteName: "Dennis Muuo - Portfolio",
     type: "website",
     images: [
       {
-        url: "https://www.joshuabrigati.com/Screenshot.png",
+        url: "https://www.dennismuuo.me/Screenshot.png",
         width: 3410,
         height: 2072,
-        alt: "Joshua Brigati - Portfolio",
+        alt: "Dennis Muuo - Portfolio",
       },
     ],
   },

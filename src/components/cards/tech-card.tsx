@@ -12,13 +12,12 @@ const MyTechCard = () => {
     { name: "HTML5", icon: "/tech-icons/html5.svg" },
     { name: "CSS3", icon: "/tech-icons/css3.svg" },
     { name: "SASS", icon: "/tech-icons/sass.svg" },
-    { name: "Storybook", icon: "/tech-icons/storybook.svg" },
     { name: "Framer", icon: "/tech-icons/framer.svg" },
     { name: "VS Code", icon: "/tech-icons/vscode.svg" },
-    { name: "Figma", icon: "/tech-icons/figma.svg" },
+  
     { name: "Arc", icon: "/tech-icons/arc.svg" },
     { name: "Github", icon: "/tech-icons/github.svg" },
-    { name: "Jira", icon: "/tech-icons/jira.svg" },
+ 
     { name: "Vercel", icon: "/tech-icons/vercel.svg" },
   ];
 
